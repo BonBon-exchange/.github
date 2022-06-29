@@ -21,6 +21,12 @@ _A startup proposes a new online service. A potential competitor wants to replic
 - Bid: CHF 5.- per unit | if you visited startupweb.com, did you come back to the website and when | 1000 units (users) maximum over 30 days of usage | living anywhere
 - Ask: CHF 5.- | visited startupweb.com, visited a second time or not | living in US
 
+
+
+_A company wants to sell bags for women._
+- Bid: CHF 25.- per unit | bags websites visited | 100 units (users) maximum over 30 days of usage | living in Geneva
+- Ask: CHF 10.- | browsing history of the last 30 days | living in Geneva
+
 _Available in 2023._
 
 ## BonBon Web Browser - cololect data
