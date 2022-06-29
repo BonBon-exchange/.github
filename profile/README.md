@@ -6,12 +6,12 @@
 
 ## Data exchange
 
-Like any regular exchange, trade making Bids and Asks. But on this exchange, you are bidding for data with granular properties. Do you want browsing histories, browsing themes, retention, returning frequence, usage time or sister windows url? Do you want to obtain data from all users, a specific city, women, or the 90s generation?
+Like any regular exchange, trade making Bids and Asks. But on this exchange, you are bidding for data with granular properties. Do you want browsing histories, browsing themes, retention, returning frequency, usage time or other tabs/windows url? Do you want to obtain data from all users, a specific city, women, or the 90s generation?
 Everything is possible, except fingerprinting and nominative bids.
 
 ## BonBon Web Browser
 
-Claim back your browsing data ownership.
+Want to totally get rid of the big browsers and their policies? We developed an application for that. BonBon Web Browser is innovative, fast, and simple. Start gathering your own data in no time. How many do you Ask for them? And don't forget, you can sell the same data many times! But don't wait too much, data value tends to decrease over time.
 
 ## BonBon Chrome Extension
 
