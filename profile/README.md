@@ -29,19 +29,19 @@ _A company wants to sell bags for women._
 
 _Available in 2023._
 
-## BonBon Web Browser - cololect data
+## BonBon Web Browser - collect data
 
 Want to totally get rid of the big browsers and their policies? We developed an application for that. BonBon Web Browser is innovative, fast, and simple. Start gathering your own data in no time. How much do you Ask for them? And don't forget, you can sell the same data many times! But don't wait too much, data value tends to decrease over time.
 
 _Available today._
 
-## BonBon Chrome Extension - cololect data
+## BonBon Chrome Extension - collect data
 
 Don't let Google being the only one making money on your browsing habits. Install the Chrome extension (compatible with many browsers) and start gathering data.
 
 _Available in 2023._
 
-## Hardware sensor - cololect data
+## Hardware sensor - collect data
 
 _Integrate with your existing material. Capture data. Monetize any object. Your car, your toilet, your fridge. Are you a manufacturer? Contact us._
 
