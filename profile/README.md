@@ -23,7 +23,7 @@ Don't let Google being the only one making money on your browsing habits. Instal
 
 _Available in 2023._
 
-## Hardware captor
+## Hardware sensor
 
 _Integrate with your existing material. Capture data. Monetize any object. Your car, your toilet, your fridge. Are you a manufacturer? Contact us._
 
