@@ -11,18 +11,18 @@ Everything is possible, except fingerprinting and nominative bids.
 
 ## BonBon Web Browser
 
-Want to totally get rid of the big browsers and their policies? We developed an application for that. BonBon Web Browser is innovative, fast, and simple. Start gathering your own data in no time. How many do you Ask for them? And don't forget, you can sell the same data many times! But don't wait too much, data value tends to decrease over time.
+Want to totally get rid of the big browsers and their policies? We developed an application for that. BonBon Web Browser is innovative, fast, and simple. Start gathering your own data in no time. How much do you Ask for them? And don't forget, you can sell the same data many times! But don't wait too much, data value tends to decrease over time.
 
 ## BonBon Chrome Extension
 
-Don't let Google being the only one making money on your browsing habits.
+Don't let Google being the only one making money on your browsing habits. Install the Chrome extension (compatible with many browsers) and start gathering data.
 
 ## Hardware captor
 
-_Integrate in your material. Capture data. Monetize any object. Your car, your toilet, your fridge._
+_Integrate with your existing material. Capture data. Monetize any object. Your car, your toilet, your fridge. Are you a manufacturer? Contact us._
 
 
 #### A Swiss company, born in Geneva.
 
-An idea, a complaint, or want to join the adventure? Contact with CEO Daniel Febrero or COO Anthony Cettour. 
+An idea, a complaint, or looking for a job? Contact with CEO Daniel Febrero or COO Anthony Cettour. 
 
