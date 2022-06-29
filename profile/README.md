@@ -19,3 +19,6 @@ Don't let Google being the only one making money on your browsing habits.
 ## Hardware captor
 
 _Integrate in your material. Capture data. Monetize any object. Your car, your toilet, your fridge._
+
+
+#### A Swiss company, born in Geneva.
