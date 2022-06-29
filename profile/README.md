@@ -6,7 +6,8 @@
 
 ## Data exchange
 
-Trade data making Bids and Asks.
+Like any regular exchange, trade making Bids and Asks. But on this exchange, you are bidding for data with granular properties. Do you want browsing histories, browsing themes, retention, returning frequence, usage time or sister windows url? Do you want to obtain data from all users, a specific city, women, or the 90s generation?
+Everything is possible, except fingerprinting and nominative bids.
 
 ## BonBon Web Browser
 
