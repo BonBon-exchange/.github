@@ -22,3 +22,6 @@ _Integrate in your material. Capture data. Monetize any object. Your car, your t
 
 
 #### A Swiss company, born in Geneva.
+
+An idea, a complaint, or want to join the adventure? Contact with CEO Daniel Febrero or COO Anthony Cettour. 
+
