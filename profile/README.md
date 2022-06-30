@@ -23,7 +23,7 @@ _A startup proposes a new online service. A potential competitor wants to replic
 
 
 
-_Once more: A company wants to sell bags for women._
+_One more: A company wants to sell bags for women._
 - Bid: CHF 25.- per unit | bags websites visited | 100 units (users) maximum over 30 days of usage | living in Geneva
 - Ask: CHF 10.- | browsing history of the last 30 days | living in Geneva
 
