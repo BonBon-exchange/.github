@@ -52,13 +52,13 @@ _Available in 2023._
 
 ## Hardware sensor - collect data
 
-Integrate with your production line, or use plug and play sensors. For you car, your hair dryer, your store visitor counter. Cqpture data from any event, mnany objects. Are you a manufacturer? Contact us.
+Integrate with your production line, or use plug and play sensors. For you car, your hair dryer, your store visitors counter. Cqpture data from any event, mnany objects. Are you a manufacturer? Contact us.
 
 _Availability depending on the success of the data exchange._
 
 
 
-### A Swiss company, born in Geneva.
+## A Swiss company, born in Geneva
 
-An idea, a complaint, or looking for a job? Contact with CEO Daniel Febrero or COO Anthony Cettour. There are open positions for UX design, marketing, development and sales.
+An idea, a complaint, or want to join the adventure? Contact with CEO Daniel Febrero or COO Anthony Cettour. There are open positions for UX design, marketing, development and sales from anywhere in the world.
 
