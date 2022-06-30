@@ -51,7 +51,7 @@ _Available in 2023._
 
 ## Hardware sensor - collect data
 
-Integrate with your production line, or use plug and play sensors. For you car, your hair dryer, your store visitors counter. Cqpture data from any event, mnany objects. Are you a manufacturer? Contact us.
+Integrate with your production line, or use plug and play sensors. For you car, your hair dryer, your store visitors counter. Cqpture data from any event, many objects. Are you a manufacturer? Contact us.
 
 _Availability depending on the success of the data exchange._
 
