@@ -8,35 +8,13 @@
 
 [Long version](https://github.com/BonBon-exchange/.github/tree/main/doc/long.md)
 
-## The Exchange - buy and sell data
+## BonBon Web Browser
 
-Like any regular exchange, trade making Bids and Asks. But on this exchange, you are bidding for data with granular properties. Do you want browsing histories, browsing themes, retentions, returning frequencies, usages time or other tabs/windows url? Do you want to obtain data from all users, a specific city, women, or the 90s generation?
-Everything is possible, except users fingerprinting, porn/adult related requests and requests leading to a very small population.
-
-_Available in 2023._
-
-## BonBon Web Browser - collect data
-
-Want to totally get rid of the big browsers and their policies? We developed an application for that. BonBon Web Browser is innovative, fast, and simple. Start gathering your own data in no time. How much do you Ask for it? You can sell the same data many times!
-Monetizing your data is completely optional. You can use the application with NO data being collected. It's open source.
+Want to totally get rid of the big browsers and their policies? We developed an application for that. BonBon Web Browser is innovative, fast, and simple. It's open source.
 
 Repository: [BonBon Web Browser](https://github.com/BonBon-exchange/bonbon-web-browser)
 
 _Available today._
-
-## BonBon Chrome Extension - collect data
-
-Don't let Google being the only one making money on your browsing habits. Install the Chrome extension (compatible with many browsers) and start gathering data.
-
-Repository: [BonBon Chrome Extension](https://github.com/BonBon-exchange/bonbon-chrome-extension)
-
-_Available in 2023._
-
-## Hardware sensor - collect data
-
-Integrate with your production line, or use plug and play sensors. For you car, your hair dryer, your store visitors counter. Cqpture data from any event, mnany objects. Are you a manufacturer? Contact us.
-
-_Availability depending on the success of the data exchange._
 
 ## A Swiss company, born in Geneva
 
