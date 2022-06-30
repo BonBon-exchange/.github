@@ -7,7 +7,7 @@
 ## The Exchange - buy and sell data
 
 Like any regular exchange, trade making Bids and Asks. But on this exchange, you are bidding for data with granular properties. Do you want browsing histories, browsing themes, retentions, returning frequencies, usages time or other tabs/windows url? Do you want to obtain data from all users, a specific city, women, or the 90s generation?
-Everything is possible, except fingerprinting and nominative bids.
+Everything is possible, except users fingerprinting, porn/adult related requests and requests leading to a very small population.
 
 _A practical example:_
 _A company wants to understand the needs and habits of Github users, in order to propose a tailored service to this market audience._
