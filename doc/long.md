@@ -26,9 +26,10 @@ _One more: A company wants to sell bags for women._
 - Bid: CHF 25.- per unit | bags websites visited | 100 units (users) maximum over 30 days of usage | living in Geneva
 - Ask: CHF 10.- | browsing history of the last 30 days | living in Geneva
 
-Buyer must be a company and a representant. Buyers and sellers will have to complete a KYC verification, providing an ID and a proof of residence. This for legal and safety reasons. Also, it will reduce the risks of having bots creating data in the name of a human. Payments, trades, and storage will be done on our servers. The data models and specifications will be open source.
 
 Buyers can pay with CHF, Bitcoin (min. CHF 10'000), BNB or BonBon (not candies, our crypto currency). Sellers get paid in BonBon. Exchange your BonBon for stable coins on PancakeSwap, and for Euro/CHF/Dollar on any exchange.
+
+Buyer must be a company and a representant. Buyers and sellers will have to complete a KYC verification, including an ID and a proof of residence. This for Anti-Money Laundering and safety reasons. Also, it will reduce the risks of having bots creating data in the name of a human. Buying important quantities of data with Bitcoins and reselling it for off-market for fiat is authorized, but it must not serve to launder. Payments, trades, and storage will be executed through our infrastructure, in Switzerland. The data models will be open source.
 
 _Available in 2023._
 
