@@ -38,17 +38,21 @@ _Available in 2023._
 Want to totally get rid of the big browsers and their policies? We developed an application for that. BonBon Web Browser is innovative, fast, and simple. Start gathering your own data in no time. How much do you Ask for it? You can sell the same data many times!
 Monetizing your data is completely optional. You can use the application with NO data being collected. It's open source.
 
+Repository: [BonBon Web Browser](https://github.com/BonBon-exchange/bonbon-web-browser)
+
 _Available today._
 
 ## BonBon Chrome Extension - collect data
 
 Don't let Google being the only one making money on your browsing habits. Install the Chrome extension (compatible with many browsers) and start gathering data.
 
+Repository: [BonBon Chrome Extension](https://github.com/BonBon-exchange/bonbon-chrome-extension)
+
 _Available in 2023._
 
 ## Hardware sensor - collect data
 
-_Integrate with your existing material. Capture data. Monetize any object. Your car, your toilet, your fridge. Are you a manufacturer? Contact us._
+Integrate with your production line, or use plug and play sensors. For you car, your hair dryer, your store visitor counter. Cqpture data from any event, mnany objects. Are you a manufacturer? Contact us.
 
 _Availability depending on the success of the data exchange._
 
@@ -56,5 +60,5 @@ _Availability depending on the success of the data exchange._
 
 ### A Swiss company, born in Geneva.
 
-An idea, a complaint, or looking for a job? Contact with CEO Daniel Febrero or COO Anthony Cettour. 
+An idea, a complaint, or looking for a job? Contact with CEO Daniel Febrero or COO Anthony Cettour. There are open positions for UX design, marketing, development and sales.
 
