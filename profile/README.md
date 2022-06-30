@@ -18,4 +18,4 @@ _Available today._
 
 ## A Swiss company, born in Geneva
 
-An idea, a complaint, or want to join the adventure? Contact with CEO Daniel Febrero or COO Anthony Cettour. There are open positions for UX design, marketing, development and sales from anywhere in the world.
+An idea, a complaint, or want to join the adventure? Contact with CEO Daniel Febrero. There are open positions for UX design, marketing, development and sales, and you can work from anywhere in the world.
