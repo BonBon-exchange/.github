@@ -23,15 +23,20 @@ _A startup proposes a new online service. A potential competitor wants to replic
 
 
 
-_A company wants to sell bags for women._
+_Once more: A company wants to sell bags for women._
 - Bid: CHF 25.- per unit | bags websites visited | 100 units (users) maximum over 30 days of usage | living in Geneva
 - Ask: CHF 10.- | browsing history of the last 30 days | living in Geneva
+
+
+Buyers and sellers will have to complete a KYC verification, providing an ID and a proof of residence. This for legal and safety reasons. Also, it will reduce the risks of having bots creating data in the name of a human. Payments, trades, and storage will be done on our servers. The data models and specifications will be open source.
+
 
 _Available in 2023._
 
 ## BonBon Web Browser - collect data
 
-Want to totally get rid of the big browsers and their policies? We developed an application for that. BonBon Web Browser is innovative, fast, and simple. Start gathering your own data in no time. How much do you Ask for them? And don't forget, you can sell the same data many times! But don't wait too much, data value tends to decrease over time.
+Want to totally get rid of the big browsers and their policies? We developed an application for that. BonBon Web Browser is innovative, fast, and simple. Start gathering your own data in no time. How much do you Ask for it? You can sell the same data many times!
+Monetizing your data is completely optional. You can use the application with NO data being collected. It's open source.
 
 _Available today._
 
