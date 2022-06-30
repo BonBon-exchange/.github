@@ -1,4 +1,4 @@
-# BonBon.exchange organization
+# BonBon.exchange org
 
 ## Documentation
 
