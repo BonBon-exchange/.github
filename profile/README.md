@@ -28,7 +28,9 @@ _One more: A company wants to sell bags for women._
 - Ask: CHF 10.- | browsing history of the last 30 days | living in Geneva
 
 
-Buyers and sellers will have to complete a KYC verification, providing an ID and a proof of residence. This for legal and safety reasons. Also, it will reduce the risks of having bots creating data in the name of a human. Payments, trades, and storage will be done on our servers. The data models and specifications will be open source. Buyers can pay with CHF, Bitcoin (min. CHF 10'000), BNB or BonBon (not candies, our crypto currency). Sellers get paid in BonBon. Exchange your BonBon for stable coins on PancakeSwap, and for Euro/CHF/Dollar on any exchange.
+Buyers and sellers will have to complete a KYC verification, providing an ID and a proof of residence. This for legal and safety reasons. Also, it will reduce the risks of having bots creating data in the name of a human. Payments, trades, and storage will be done on our servers. The data models and specifications will be open source. 
+
+Buyers can pay with CHF, Bitcoin (min. CHF 10'000), BNB or BonBon (not candies, our crypto currency). Sellers get paid in BonBon. Exchange your BonBon for stable coins on PancakeSwap, and for Euro/CHF/Dollar on any exchange.
 
 
 _Available in 2023._
