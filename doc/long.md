@@ -4,14 +4,31 @@
 
 "If it exists, there is data about it."
 
-## Doc
-
-[Long version](https://github.com/BonBon-exchange/.github/tree/main/doc/long.md)
-
 ## The Exchange - buy and sell data
 
 Like any regular exchange, trade making Bids and Asks. But on this exchange, you are bidding for data with granular properties. Do you want browsing histories, browsing themes, retentions, returning frequencies, usages time or other tabs/windows url? Do you want to obtain data from all users, a specific city, women, or the 90s generation?
 Everything is possible, except users fingerprinting, porn/adult related requests and requests leading to a very small population.
+
+_A practical example:_
+_A company wants to understand the needs and habits of Github users, in order to propose a tailored service to this market audience._
+
+- Bid: CHF 5.- per unit | other tabs (urls) opened when visiting github.com | 1000 units (users) maximum over 30 days of usage | living in Europe
+- Ask: CHF 5.- | urls visited and urls association (tabs opened at the same time) those last 30 days | living in Europe
+
+_Another example:_
+_A startup proposes a new online service. A potential competitor wants to replicate the service, but also wants to ensure that the user retention is good enough to justify the investment._
+
+- Bid: CHF 5.- per unit | if you visited startupweb.com, did you come back to the website and when | 1000 units (users) maximum over 30 days of usage | living anywhere
+- Ask: CHF 5.- | visited startupweb.com, visited a second time or not | living in US
+
+_One more: A company wants to sell bags for women._
+
+- Bid: CHF 25.- per unit | bags websites visited | 100 units (users) maximum over 30 days of usage | living in Geneva
+- Ask: CHF 10.- | browsing history of the last 30 days | living in Geneva
+
+Buyers and sellers will have to complete a KYC verification, providing an ID and a proof of residence. This for legal and safety reasons. Also, it will reduce the risks of having bots creating data in the name of a human. Payments, trades, and storage will be done on our servers. The data models and specifications will be open source.
+
+Buyers can pay with CHF, Bitcoin (min. CHF 10'000), BNB or BonBon (not candies, our crypto currency). Sellers get paid in BonBon. Exchange your BonBon for stable coins on PancakeSwap, and for Euro/CHF/Dollar on any exchange.
 
 _Available in 2023._
 
