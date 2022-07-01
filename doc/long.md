@@ -40,7 +40,7 @@ The data models are open source.
 
 Data are deleted from our databases after each successful trade.
 
-Data on BonBon Exchange is new. You cannot resell data on BonBon Exchange.
+Data on BonBon Exchange is new. You cannot resell data on BonBon Exchange. You should not speculate on data value.
 
 ### Pricing
 
