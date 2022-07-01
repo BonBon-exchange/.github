@@ -1,5 +1,3 @@
-![Visits Badge](https://badges.pufler.dev/visits/BonBon-exchange/.github)
-
 # BonBon.exchange
 
 "If it exists, there is data about it."
