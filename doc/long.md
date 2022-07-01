@@ -40,6 +40,12 @@ The data models are open source.
 
 Data are deleted from our databases after each successful trade.
 
+Data on BonBon Exchange is new. You cannot resell data on BonBon Exchange.
+
+### Pricing
+
+5% paid by the buyer + 5% paid by the seller
+
 _Available in 2023._
 
 ## BonBon Web Browser - collect data
