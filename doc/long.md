@@ -30,9 +30,9 @@ _One more: A company wants to sell bags for women._
 
 Buyers can pay with CHF, Bitcoin (min. CHF 10'000), BNB or BonBon (not candies, our crypto currency). Sellers get paid in BonBon. Exchange your BonBon for stable coins on PancakeSwap, and for Euro/CHF/Dollar on any exchange.
 
-Buyer must be a company and a representant. Seller must be an individual. Buyers and sellers will have to complete a KYC verification, including an ID and a proof of residence. This for **Anti-Money Laundering** and safety reasons. Also, it will reduce the risks of having bots creating data in the name of a human.
+Buyer must be a company and a representant. Seller must be an individual. Buyers and sellers have to complete a KYC verification, including an ID and a proof of residence. This for **Anti-Money Laundering** and safety reasons. Also, it reduces the risks of having bots creating data in the name of a human.
 
-Buying important quantities of data with Bitcoins and reselling it off-market for fiat is authorized, but it must not serve to launder. Payments, trades, and storage will be executed through our infrastructures, in Zurich, Switzerland. Company is located in Geenva, Switzerland.
+Buying important quantities of data with Bitcoins and reselling it off-market for fiat is authorized, but it must not serve to launder. Payments, trades, and storage are executed through our infrastructures, in Zurich, Switzerland. Company is located in Geenva, Switzerland.
 
 BonBon Exchange is not a high-frequency trading platform. BonBon Exchange process raw data from the sellers to increase it's quality and price, while connecting buyers and sellers without having to share their respective identities.
 
