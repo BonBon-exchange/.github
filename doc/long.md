@@ -7,6 +7,8 @@
 Like any regular exchange, trade making Bids and Asks. But on this exchange, you are bidding for data with granular properties. Do you want browsing histories, browsing themes, retentions, returning frequencies, usages time or other tabs/windows url? Do you want to obtain data from all users, a specific city, women, or the 90s generation?
 Everything is possible, except users fingerprinting, porn/adult related requests and requests leading to a very small population.
 
+### Examples
+
 _A practical example:_
 _A company wants to understand the needs and habits of Github users, in order to propose a tailored service to this market audience._
 
@@ -24,16 +26,19 @@ _One more: A company wants to sell bags for women._
 - Bid: CHF 25.- per unit | bags websites visited | 100 units (users) maximum over 30 days of usage | living in Geneva
 - Ask: CHF 10.- | browsing history of the last 30 days | living in Geneva
 
+### Statements
 
 Buyers can pay with CHF, Bitcoin (min. CHF 10'000), BNB or BonBon (not candies, our crypto currency). Sellers get paid in BonBon. Exchange your BonBon for stable coins on PancakeSwap, and for Euro/CHF/Dollar on any exchange.
 
-Buyer must be a company and a representant. Buyers and sellers will have to complete a KYC verification, including an ID and a proof of residence. This for **Anti-Money Laundering** and safety reasons. Also, it will reduce the risks of having bots creating data in the name of a human.
+Buyer must be a company and a representant. Seller must be an individual. Buyers and sellers will have to complete a KYC verification, including an ID and a proof of residence. This for **Anti-Money Laundering** and safety reasons. Also, it will reduce the risks of having bots creating data in the name of a human.
 
-Buying important quantities of data with Bitcoins and reselling it off-market for fiat is authorized, but it must not serve to launder. Payments, trades, and storage will be executed through our infrastructure, in Switzerland.
+Buying important quantities of data with Bitcoins and reselling it off-market for fiat is authorized, but it must not serve to launder. Payments, trades, and storage will be executed through our infrastructures, in Zurich, Switzerland. Company headquarter is in Geenva, Switzerland.
 
 BonBon Exchange is not a high-frequency trading platform. BonBon Exchange process raw data from the sellers to increase it's quality and price, while connecting buyers and sellers without having to share their respective identities.
 
-The data models will be open source.
+The data models are open source.
+
+Data are deleted from our databases after each successful trade.
 
 _Available in 2023._
 
