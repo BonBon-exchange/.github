@@ -33,6 +33,8 @@ Buyer must be a company and a representant. Buyers and sellers will have to comp
 
 Buying important quantities of data with Bitcoins and reselling it off-market for fiat is authorized, but it must not serve to launder. Payments, trades, and storage will be executed through our infrastructure, in Switzerland.
 
+BonBon Exchange is not a high-freauency trading platform. BonBon Exchange process raw data from the sellers to increase it's quality and price, while connecting buyers and sellers without having to share their respective identities.
+
 The data models will be open source.
 
 _Available in 2023._
