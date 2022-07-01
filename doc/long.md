@@ -48,7 +48,7 @@ Buyers can consume the data, or add value and resell it. Doing market studies, f
 
 5% paid by the buyer + 5% paid by the seller
 
-_Available in 2023._
+_Available Q4 2023._
 
 ## BonBon Web Browser - collect data
 
