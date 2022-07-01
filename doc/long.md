@@ -42,6 +42,8 @@ Data are deleted from our databases after each successful trade.
 
 Data on BonBon Exchange is new. You cannot resell data on BonBon Exchange. You should not speculate on data value.
 
+Buyers can consume the data, or add value and resell it. Doing market studies, for example.
+
 ### Pricing
 
 5% paid by the buyer + 5% paid by the seller
