@@ -63,8 +63,6 @@ _Available today._
 
 Don't let Google being the only one making money on your browsing habits. Install the Chrome extension (compatible with many browsers) and start gathering data.
 
-Repository: [BonBon Chrome Extension](https://github.com/BonBon-exchange/bonbon-chrome-extension)
-
 _Available in 2023._
 
 ## Hardware sensor - collect data
